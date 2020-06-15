@@ -1,0 +1,1576 @@
+[
+    {
+        "machine": "constructor",
+        "name": "Biomass (Alien Carapace)",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Alien Carapace",
+                "rate": 15.0
+            }
+        ],
+        "output": [
+            {
+                "count": 100.0,
+                "name": "Biomass",
+                "rate": 1500.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Biomass (Alien Organs)",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Alien Organs",
+                "rate": 7.5
+            }
+        ],
+        "output": [
+            {
+                "count": 200.0,
+                "name": "Biomass",
+                "rate": 1500.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Biomass (Leaves)",
+        "time": 5.0,
+        "input": [
+            {
+                "count": 10.0,
+                "name": "Leaves",
+                "rate": 120.0
+            }
+        ],
+        "output": [
+            {
+                "count": 5.0,
+                "name": "Biomass",
+                "rate": 60.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Biomass (Mycelia)",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 10.0,
+                "name": "Mycelia",
+                "rate": 150.0
+            }
+        ],
+        "output": [
+            {
+                "count": 10.0,
+                "name": "Biomass",
+                "rate": 150.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Biomass (Wood)",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 4.0,
+                "name": "Wood",
+                "rate": 60.0
+            }
+        ],
+        "output": [
+            {
+                "count": 20.0,
+                "name": "Biomass",
+                "rate": 300.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Cable",
+        "time": 2.0,
+        "input": [
+            {
+                "count": 2.0,
+                "name": "Wire",
+                "rate": 60.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Cable",
+                "rate": 30.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Color Cartridge",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 5.0,
+                "name": "Flower Petals",
+                "rate": 37.5
+            }
+        ],
+        "output": [
+            {
+                "count": 10.0,
+                "name": "Color Cartridge",
+                "rate": 75.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Concrete",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Limestone",
+                "rate": 45.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Concrete",
+                "rate": 15.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Copper Sheet",
+        "time": 6.0,
+        "input": [
+            {
+                "count": 2.0,
+                "name": "Copper Ingot",
+                "rate": 20.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Copper Sheet",
+                "rate": 10.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Empty Canister",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 2.0,
+                "name": "Plastic",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 4.0,
+                "name": "Empty Canister",
+                "rate": 60.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Iron Plate",
+        "time": 6.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Iron Ingot",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Iron Plate",
+                "rate": 20.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Iron Rod",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Iron Ingot",
+                "rate": 15.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Iron Rod",
+                "rate": 15.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Power Shard (1)",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Green Power Slug",
+                "rate": 7.5
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Power Shard",
+                "rate": 7.5
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Power Shard (2)",
+        "time": 12.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Yellow Power Slug",
+                "rate": 5.0
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Power Shard",
+                "rate": 10.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Power Shard (3)",
+        "time": 24.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Purple Power Slug",
+                "rate": 2.5
+            }
+        ],
+        "output": [
+            {
+                "count": 5.0,
+                "name": "Power Shard",
+                "rate": 12.5
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Quartz Crystal",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 5.0,
+                "name": "Raw Quartz",
+                "rate": 37.5
+            }
+        ],
+        "output": [
+            {
+                "count": 3.0,
+                "name": "Quartz Crystal",
+                "rate": 22.5
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Quickwire",
+        "time": 5.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Caterium Ingot",
+                "rate": 12.0
+            }
+        ],
+        "output": [
+            {
+                "count": 5.0,
+                "name": "Quickwire",
+                "rate": 60.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Screw",
+        "time": 6.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Iron Rod",
+                "rate": 10.0
+            }
+        ],
+        "output": [
+            {
+                "count": 4.0,
+                "name": "Screw",
+                "rate": 40.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Silica",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Raw Quartz",
+                "rate": 22.5
+            }
+        ],
+        "output": [
+            {
+                "count": 5.0,
+                "name": "Silica",
+                "rate": 37.5
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Solid Biofuel",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 8.0,
+                "name": "Biomass",
+                "rate": 120.0
+            }
+        ],
+        "output": [
+            {
+                "count": 4.0,
+                "name": "Solid Biofuel",
+                "rate": 60.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Spiked Rebar",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Iron Rod",
+                "rate": 15.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Spiked Rebar",
+                "rate": 15.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Steel Beam",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 4.0,
+                "name": "Steel Ingot",
+                "rate": 60.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Steel Beam",
+                "rate": 15.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Steel Pipe",
+        "time": 6.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Steel Ingot",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Steel Pipe",
+                "rate": 20.0
+            }
+        ]
+    },
+    {
+        "machine": "constructor",
+        "name": "Wire",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Copper Ingot",
+                "rate": 15.0
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Wire",
+                "rate": 30.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "A.I. Limiter",
+        "time": 12.0,
+        "input": [
+            {
+                "count": 5.0,
+                "name": "Copper Sheet",
+                "rate": 25.0
+            },
+            {
+                "count": 20.0,
+                "name": "Quickwire",
+                "rate": 100.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "A.I. Limiter",
+                "rate": 5.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Alclad Aluminum Sheet",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 8.0,
+                "name": "Aluminum Ingot",
+                "rate": 60.0
+            },
+            {
+                "count": 3.0,
+                "name": "Copper Ingot",
+                "rate": 22.5
+            }
+        ],
+        "output": [
+            {
+                "count": 4.0,
+                "name": "Alclad Aluminum Sheet",
+                "rate": 30.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Automated Wiring",
+        "time": 24.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Stator",
+                "rate": 2.5
+            },
+            {
+                "count": 20.0,
+                "name": "Cable",
+                "rate": 50.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Automated Wiring",
+                "rate": 2.5
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Black Powder",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Coal",
+                "rate": 7.5
+            },
+            {
+                "count": 2.0,
+                "name": "Sulfur",
+                "rate": 15.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Black Powder",
+                "rate": 7.5
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Circuit Board",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 2.0,
+                "name": "Copper Sheet",
+                "rate": 15.0
+            },
+            {
+                "count": 4.0,
+                "name": "Plastic",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Circuit Board",
+                "rate": 7.5
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Electromagnetic Control Rod",
+        "time": 30.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Stator",
+                "rate": 6.0
+            },
+            {
+                "count": 2.0,
+                "name": "A.I. Limiter",
+                "rate": 4.0
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Electromagnetic Control Rod",
+                "rate": 4.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Encased Industrial Beam",
+        "time": 10.0,
+        "input": [
+            {
+                "count": 4.0,
+                "name": "Steel Beam",
+                "rate": 24.0
+            },
+            {
+                "count": 5.0,
+                "name": "Concrete",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Encased Industrial Beam",
+                "rate": 6.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Encased Uranium Cell",
+        "time": 60.0,
+        "input": [
+            {
+                "count": 40.0,
+                "name": "Uranium Pellet",
+                "rate": 40.0
+            },
+            {
+                "count": 9.0,
+                "name": "Concrete",
+                "rate": 9.0
+            }
+        ],
+        "output": [
+            {
+                "count": 10.0,
+                "name": "Encased Uranium Cell",
+                "rate": 10.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Fabric",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Mycelia",
+                "rate": 15.0
+            },
+            {
+                "count": 5.0,
+                "name": "Biomass",
+                "rate": 75.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Fabric",
+                "rate": 15.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Heat Sink",
+        "time": 12.0,
+        "input": [
+            {
+                "count": 8.0,
+                "name": "Alclad Aluminum Sheet",
+                "rate": 40.0
+            },
+            {
+                "count": 14.0,
+                "name": "Rubber",
+                "rate": 70.0
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Heat Sink",
+                "rate": 10.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Modular Frame",
+        "time": 60.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Reinforced Iron Plate",
+                "rate": 3.0
+            },
+            {
+                "count": 12.0,
+                "name": "Iron Rod",
+                "rate": 12.0
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Modular Frame",
+                "rate": 2.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Motor",
+        "time": 12.0,
+        "input": [
+            {
+                "count": 2.0,
+                "name": "Rotor",
+                "rate": 10.0
+            },
+            {
+                "count": 2.0,
+                "name": "Stator",
+                "rate": 10.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Motor",
+                "rate": 5.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Nobelisk",
+        "time": 20.0,
+        "input": [
+            {
+                "count": 5.0,
+                "name": "Black Powder",
+                "rate": 15.0
+            },
+            {
+                "count": 10.0,
+                "name": "Steel Pipe",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Nobelisk",
+                "rate": 3.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Reinforced Iron Plate",
+        "time": 12.0,
+        "input": [
+            {
+                "count": 6.0,
+                "name": "Iron Plate",
+                "rate": 30.0
+            },
+            {
+                "count": 12.0,
+                "name": "Screw",
+                "rate": 60.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Reinforced Iron Plate",
+                "rate": 5.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Rotor",
+        "time": 15.0,
+        "input": [
+            {
+                "count": 5.0,
+                "name": "Iron Rod",
+                "rate": 20.0
+            },
+            {
+                "count": 25.0,
+                "name": "Screw",
+                "rate": 100.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Rotor",
+                "rate": 4.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "S.A.M. Fluctuator",
+        "time": 12.0,
+        "input": [
+            {
+                "count": 15.0,
+                "name": "Cable",
+                "rate": 75.0
+            },
+            {
+                "count": 5.0,
+                "name": "S.A.M. Ingot",
+                "rate": 25.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "S.A.M. Fluctuator",
+                "rate": 5.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Smart Plating",
+        "time": 30.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Reinforced Iron Plate",
+                "rate": 2.0
+            },
+            {
+                "count": 1.0,
+                "name": "Rotor",
+                "rate": 2.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Smart Plating",
+                "rate": 2.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Stator",
+        "time": 12.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Steel Pipe",
+                "rate": 15.0
+            },
+            {
+                "count": 8.0,
+                "name": "Wire",
+                "rate": 40.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Stator",
+                "rate": 5.0
+            }
+        ]
+    },
+    {
+        "machine": "assembler",
+        "name": "Versatile Framework",
+        "time": 24.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Modular Frame",
+                "rate": 2.5
+            },
+            {
+                "count": 12.0,
+                "name": "Steel Beam",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Versatile Framework",
+                "rate": 5.0
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Adaptive Control Unit",
+        "time": 120.0,
+        "input": [
+            {
+                "count": 15.0,
+                "name": "Automated Wiring",
+                "rate": 7.5
+            },
+            {
+                "count": 10.0,
+                "name": "Circuit Board",
+                "rate": 5.0
+            },
+            {
+                "count": 2.0,
+                "name": "Heavy Modular Frame",
+                "rate": 1.0
+            },
+            {
+                "count": 2.0,
+                "name": "Computer",
+                "rate": 1.0
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Adaptive Control Unit",
+                "rate": 1.0
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Battery",
+        "time": 32.0,
+        "input": [
+            {
+                "count": 8.0,
+                "name": "Alclad Aluminum Sheet",
+                "rate": 15.0
+            },
+            {
+                "count": 16.0,
+                "name": "Wire",
+                "rate": 30.0
+            },
+            {
+                "count": 20.0,
+                "name": "Sulfur",
+                "rate": 37.5
+            },
+            {
+                "count": 8.0,
+                "name": "Plastic",
+                "rate": 15.0
+            }
+        ],
+        "output": [
+            {
+                "count": 3.0,
+                "name": "Battery",
+                "rate": 5.6
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Beacon",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Iron Plate",
+                "rate": 22.5
+            },
+            {
+                "count": 1.0,
+                "name": "Iron Rod",
+                "rate": 7.5
+            },
+            {
+                "count": 15.0,
+                "name": "Wire",
+                "rate": 112.5
+            },
+            {
+                "count": 2.0,
+                "name": "Cable",
+                "rate": 15.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Beacon",
+                "rate": 7.5
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Computer",
+        "time": 24.0,
+        "input": [
+            {
+                "count": 10.0,
+                "name": "Circuit Board",
+                "rate": 25.0
+            },
+            {
+                "count": 9.0,
+                "name": "Cable",
+                "rate": 22.5
+            },
+            {
+                "count": 18.0,
+                "name": "Plastic",
+                "rate": 45.0
+            },
+            {
+                "count": 52.0,
+                "name": "Screw",
+                "rate": 130.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Computer",
+                "rate": 2.5
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Crystal Oscillator",
+        "time": 120.0,
+        "input": [
+            {
+                "count": 36.0,
+                "name": "Quartz Crystal",
+                "rate": 18.0
+            },
+            {
+                "count": 28.0,
+                "name": "Cable",
+                "rate": 14.0
+            },
+            {
+                "count": 5.0,
+                "name": "Reinforced Iron Plate",
+                "rate": 2.5
+            }
+        ],
+        "output": [
+            {
+                "count": 2.0,
+                "name": "Crystal Oscillator",
+                "rate": 1.0
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Gas Filter",
+        "time": 8.0,
+        "input": [
+            {
+                "count": 5.0,
+                "name": "Coal",
+                "rate": 37.5
+            },
+            {
+                "count": 2.0,
+                "name": "Rubber",
+                "rate": 15.0
+            },
+            {
+                "count": 2.0,
+                "name": "Fabric",
+                "rate": 15.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Gas Filter",
+                "rate": 7.5
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Heavy Modular Frame",
+        "time": 30.0,
+        "input": [
+            {
+                "count": 5.0,
+                "name": "Modular Frame",
+                "rate": 10.0
+            },
+            {
+                "count": 15.0,
+                "name": "Steel Pipe",
+                "rate": 30.0
+            },
+            {
+                "count": 5.0,
+                "name": "Encased Industrial Beam",
+                "rate": 10.0
+            },
+            {
+                "count": 100.0,
+                "name": "Screw",
+                "rate": 200.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Heavy Modular Frame",
+                "rate": 2.0
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "High-Speed Connector",
+        "time": 16.0,
+        "input": [
+            {
+                "count": 56.0,
+                "name": "Quickwire",
+                "rate": 210.0
+            },
+            {
+                "count": 10.0,
+                "name": "Cable",
+                "rate": 37.5
+            },
+            {
+                "count": 1.0,
+                "name": "Circuit Board",
+                "rate": 3.8
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "High-Speed Connector",
+                "rate": 3.8
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Iodine Infused Filter",
+        "time": 16.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Gas Filter",
+                "rate": 3.8
+            },
+            {
+                "count": 8.0,
+                "name": "Quickwire",
+                "rate": 30.0
+            },
+            {
+                "count": 2.0,
+                "name": "Rubber",
+                "rate": 7.5
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Iodine Infused Filter",
+                "rate": 3.8
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Modular Engine",
+        "time": 60.0,
+        "input": [
+            {
+                "count": 2.0,
+                "name": "Motor",
+                "rate": 2.0
+            },
+            {
+                "count": 15.0,
+                "name": "Rubber",
+                "rate": 15.0
+            },
+            {
+                "count": 2.0,
+                "name": "Smart Plating",
+                "rate": 2.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Modular Engine",
+                "rate": 1.0
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Nuclear Fuel Rod",
+        "time": 150.0,
+        "input": [
+            {
+                "count": 25.0,
+                "name": "Encased Uranium Cell",
+                "rate": 10.0
+            },
+            {
+                "count": 3.0,
+                "name": "Encased Industrial Beam",
+                "rate": 1.2
+            },
+            {
+                "count": 5.0,
+                "name": "Electromagnetic Control Rod",
+                "rate": 2.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Nuclear Fuel Rod",
+                "rate": 0.4
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Quantum Computer",
+        "time": 32.0,
+        "input": [
+            {
+                "count": 2.0,
+                "name": "Supercomputer",
+                "rate": 3.8
+            },
+            {
+                "count": 2.0,
+                "name": "Radio Control Unit",
+                "rate": 3.8
+            },
+            {
+                "count": 2.0,
+                "name": "Superposition Oscillator",
+                "rate": 3.8
+            },
+            {
+                "count": 15.0,
+                "name": "Plastic",
+                "rate": 28.1
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Quantum Computer",
+                "rate": 1.9
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Radio Control Unit",
+        "time": 24.0,
+        "input": [
+            {
+                "count": 4.0,
+                "name": "Heat Sink",
+                "rate": 10.0
+            },
+            {
+                "count": 16.0,
+                "name": "Rubber",
+                "rate": 40.0
+            },
+            {
+                "count": 1.0,
+                "name": "Crystal Oscillator",
+                "rate": 2.5
+            },
+            {
+                "count": 1.0,
+                "name": "Computer",
+                "rate": 2.5
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Radio Control Unit",
+                "rate": 2.5
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Rifle Cartridge",
+        "time": 20.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Beacon",
+                "rate": 3.0
+            },
+            {
+                "count": 10.0,
+                "name": "Steel Pipe",
+                "rate": 30.0
+            },
+            {
+                "count": 10.0,
+                "name": "Black Powder",
+                "rate": 30.0
+            },
+            {
+                "count": 10.0,
+                "name": "Rubber",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 5.0,
+                "name": "Rifle Cartridge",
+                "rate": 15.0
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Supercomputer",
+        "time": 32.0,
+        "input": [
+            {
+                "count": 2.0,
+                "name": "Computer",
+                "rate": 3.8
+            },
+            {
+                "count": 2.0,
+                "name": "A.I. Limiter",
+                "rate": 3.8
+            },
+            {
+                "count": 3.0,
+                "name": "High-Speed Connector",
+                "rate": 5.6
+            },
+            {
+                "count": 28.0,
+                "name": "Plastic",
+                "rate": 52.5
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Supercomputer",
+                "rate": 1.9
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Superposition Oscillator",
+        "time": 32.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Quantum Crystal",
+                "rate": 5.6
+            },
+            {
+                "count": 6.0,
+                "name": "A.I. Limiter",
+                "rate": 11.3
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Superposition Oscillator",
+                "rate": 1.9
+            }
+        ]
+    },
+    {
+        "machine": "manufacturer",
+        "name": "Turbo Motor",
+        "time": 32.0,
+        "input": [
+            {
+                "count": 4.0,
+                "name": "Heat Sink",
+                "rate": 7.5
+            },
+            {
+                "count": 2.0,
+                "name": "Radio Control Unit",
+                "rate": 3.8
+            },
+            {
+                "count": 4.0,
+                "name": "Motor",
+                "rate": 7.5
+            },
+            {
+                "count": 24.0,
+                "name": "Rubber",
+                "rate": 45.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Turbo Motor",
+                "rate": 1.9
+            }
+        ]
+    },
+    {
+        "machine": "smelter",
+        "name": "Caterium Ingot",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Caterium Ore",
+                "rate": 45.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Caterium Ingot",
+                "rate": 15.0
+            }
+        ]
+    },
+    {
+        "machine": "smelter",
+        "name": "Copper Ingot",
+        "time": 2.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Copper Ore",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Copper Ingot",
+                "rate": 30.0
+            }
+        ]
+    },
+    {
+        "machine": "smelter",
+        "name": "Iron Ingot",
+        "time": 2.0,
+        "input": [
+            {
+                "count": 1.0,
+                "name": "Iron Ore",
+                "rate": 30.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "Iron Ingot",
+                "rate": 30.0
+            }
+        ]
+    },
+    {
+        "machine": "smelter",
+        "name": "S.A.M. Ingot",
+        "time": 2.0,
+        "input": [
+            {
+                "count": 6.0,
+                "name": "S.A.M. Ore",
+                "rate": 180.0
+            }
+        ],
+        "output": [
+            {
+                "count": 1.0,
+                "name": "S.A.M. Ingot",
+                "rate": 30.0
+            }
+        ]
+    },
+    {
+        "machine": "foundry",
+        "name": "Aluminum Ingot",
+        "time": 3.0,
+        "input": [
+            {
+                "count": 12.0,
+                "name": "Aluminum Scrap",
+                "rate": 240.0
+            },
+            {
+                "count": 7.0,
+                "name": "Silica",
+                "rate": 140.0
+            }
+        ],
+        "output": [
+            {
+                "count": 4.0,
+                "name": "Aluminum Ingot",
+                "rate": 80.0
+            }
+        ]
+    },
+    {
+        "machine": "foundry",
+        "name": "Steel Ingot",
+        "time": 4.0,
+        "input": [
+            {
+                "count": 3.0,
+                "name": "Iron Ore",
+                "rate": 45.0
+            },
+            {
+                "count": 3.0,
+                "name": "Coal",
+                "rate": 45.0
+            }
+        ],
+        "output": [
+            {
+                "count": 3.0,
+                "name": "Steel Ingot",
+                "rate": 45.0
+            }
+        ]
+    }
+]
