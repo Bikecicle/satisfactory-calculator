@@ -1,0 +1,55 @@
+[
+  {
+    "item": "Iron Ingot",
+    "rate": 46.5,
+    "machine": "smelter",
+    "machine_count": 2,
+    "overflow": 20.924999999999997
+  },
+  {
+    "item": "Iron Plate",
+    "rate": 12.0,
+    "machine": "constructor",
+    "machine_count": 1,
+    "overflow": 4.800000000000001
+  },
+  {
+    "item": "Iron Rod",
+    "rate": 28.5,
+    "machine": "constructor",
+    "machine_count": 2,
+    "overflow": 2.8500000000000023
+  },
+  {
+    "item": "Screw",
+    "rate": 74.0,
+    "machine": "constructor",
+    "machine_count": 2,
+    "overflow": 11.099999999999994
+  },
+  {
+    "item": "Reinforced Iron Plate",
+    "rate": 2.0,
+    "machine": "assembler",
+    "machine_count": 1,
+    "overflow": 1.2
+  },
+  {
+    "item": "Rotor",
+    "rate": 2.0,
+    "machine": "assembler",
+    "machine_count": 1,
+    "overflow": 1.0
+  },
+  {
+    "item": "Smart Plating",
+    "rate": 2,
+    "machine": "assembler",
+    "machine_count": 1,
+    "overflow": 0.0
+  },
+  {
+    "item": "Iron Ore",
+    "rate": 46.5
+  }
+]

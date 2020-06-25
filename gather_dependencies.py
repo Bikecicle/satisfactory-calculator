@@ -40,4 +40,4 @@ scrape_recipes('smelter')
 scrape_recipes('foundry')
 
 with open('dependencies.json', 'w') as dep_file:
-    dep_file.write(json.dumps(dependencies, indent=4))
+    dep_file.write(json.dumps(dependencies, indent=2))

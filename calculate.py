@@ -26,7 +26,6 @@ def find_recipe(item):
 
 
 def propagate_dependencies(item, rate):
-    print(item, rate)
     resources[item][0] += rate
 
     rec, rec_rate = find_recipe(item)
@@ -56,4 +55,4 @@ for r in resources:
         report.append(entry)
 
 with open('report.json', 'w') as report_file:
-    report_file.write(json.dumps(report, indent=4))
+    report_file.write(json.dumps(report, indent=2))
